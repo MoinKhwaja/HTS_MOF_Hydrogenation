@@ -1,8 +1,8 @@
 import pandas as pd
 
-csv1_path = "/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation/Database/qmof_database/CSVs/2_bandgap_mofs.csv"  # Replace with the actual path to the first CSV
+csv1_path = "/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation/Database/CSVs/2_bandgap_mofs.csv"  # Replace with the actual path to the first CSV
 csv2_path = "/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation/Screening_Scripts/Water_Stability/Predictions/test.csv"  # Replace with the actual path to the second CSV
-output_csv_path = "/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation/Database/qmof_database/CSVs/Misc_CSVs/output_csv.csv"  # Replace with the desired path for the output CSV
+output_csv_path = "/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation/Database/CSVs/Misc_CSVs/output_csv.csv"  # Replace with the desired path for the output CSV
 
 df1 = pd.read_csv(csv1_path)  
 df2 = pd.read_csv(csv2_path)  

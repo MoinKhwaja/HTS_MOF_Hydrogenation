@@ -1,1 +1,0 @@
-/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation/Fingerprinting_tests/temp_file_creation_default_session/feature_generation/water_zeo++/qmof-1c3833a_pd.txt    20.33696 19.98631  20.33696

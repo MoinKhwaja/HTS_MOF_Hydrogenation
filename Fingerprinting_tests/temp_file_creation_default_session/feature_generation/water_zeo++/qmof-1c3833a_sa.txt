@@ -1,3 +1,0 @@
-@ /Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation/Fingerprinting_tests/temp_file_creation_default_session/feature_generation/water_zeo++/qmof-1c3833a_sa.txt Unitcell_volume: 2667.36   Density: 0.586936   ASA_A^2: 327.852 ASA_m^2/cm^3: 1229.12 ASA_m^2/g: 2094.14 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
-Number_of_channels: 1 Channel_surface_area_A^2: 327.852  
-Number_of_pockets: 0 Pocket_surface_area_A^2: 

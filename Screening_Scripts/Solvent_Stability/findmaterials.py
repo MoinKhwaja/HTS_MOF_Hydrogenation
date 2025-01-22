@@ -1,9 +1,9 @@
 import pandas as pd
 
 # Load the CSV files
-csv1_path = '/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation /Screening_Scripts/Solvent_Stability/stable_percent_0_75_or_greater.csv'  # Replace with your file path
-csv2_path = '/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation /Database/CSVs/2_bandgap_mofs.csv'                 # Replace with your file path
-output_path = '/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation /Database/CSVs/3_solvent_water_mofs.csv'         # Replace with your desired output file path
+csv1_path = '/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation /Screening_Scripts/Solvent_Stability/stable_percent_0_75_or_greater.csv'  
+csv2_path = '/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation /Database/CSVs/2_bandgap_mofs.csv'               
+output_path = '/Users/moinkhwaja/Documents/GitHub/HTS_MOF_Hydrogenation /Database/CSVs/3_solvent_water_mofs.csv'         
 
 # Read the data
 csv1 = pd.read_csv(csv1_path)
